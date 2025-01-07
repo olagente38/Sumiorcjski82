@@ -32,22 +32,22 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //let pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/b91fd8009901954bdbe4a.jpg')
 
 //creador y otros
-global.creador = 'Wa.me/34610246115'
+global.creador = 'Wa.me/51939249284'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/34610246115'
-global.namechannel = '🌸Sumi sakurazawa🌸/ ⍴᥆ᥕᥱ𝒓ᥱძ ᑲᥡ 𝕷͢𝖊𝖔፝֟፝֟፝֟፝֟፝֟፝֟𝖓𝖊𝖑 𝗍ᥱᥲ𝒎☀︎'
+global.asistencia = 'Wa.me/51939249284'
+global.namechannel = 'ＭＩＺＵＫＩ 💗 ＡＩ'
 global.namechannel2 = ''
-global.namegrupo = ' ⍴᥆ᥕᥱ𝒓ᥱძ ᑲᥡ 𝕷͢𝖊𝖔፝֟፝֟፝֟፝֟፝֟፝֟𝖓𝖊𝖑 𝗍ᥱᥲ𝒎☀︎'
-global.namecomu = '🌸Sumi sakurazawa🌸'
+global.namegrupo = 'ＭＩＺＵＫＩ 💗 ＡＩ'
+global.namecomu = 'ＭＩＺＵＫＩ 💗 ＡＩ'
 global.namecomu2 = ''
 global.colab1 = ''
 global.colab2 = ''
 global.colab3 = ''
 
 //Ids channel
-global.idchannel = '120363324350463849@newsletter'
-global.canalIdH = ["120363324350463849@newsletter", "120363324350463849@newsletter", "120363324350463849@newsletter", "120363324350463849@newsletter"]
-global.canalNombreH = ["⬪࣪ꥈ𑁍⃪࣭۪ٜ݊݊݊݊݊໑ٜ࣪⚘۪۬㒣樱泽纯美  〸  达里埃拉㒢⚘ٜ࣪໑⃪࣭۪ٜ݊݊݊݊𑁍ꥈ࣪⬪", "⬪࣪ꥈ𑁍⃪࣭۪ٜ݊݊݊݊݊໑ٜ࣪⚘۪۬㒣樱泽纯美  〸  达里埃拉㒢⚘ٜ࣪໑⃪࣭۪ٜ݊݊݊݊𑁍ꥈ࣪⬪", "⬪࣪ꥈ𑁍⃪࣭۪ٜ݊݊݊݊݊໑ٜ࣪⚘۪۬㒣樱泽纯美  〸  达里埃拉㒢⚘ٜ࣪໑⃪࣭۪ٜ݊݊݊݊𑁍ꥈ࣪⬪", "⬪࣪ꥈ𑁍⃪࣭۪ٜ݊݊݊݊݊໑ٜ࣪⚘۪۬㒣樱泽纯美  〸  达里埃拉㒢⚘ٜ࣪໑⃪࣭۪ٜ݊݊݊݊𑁍ꥈ࣪⬪"]
+global.idchannel = '120363316264159575@newsletter'
+global.canalIdH = ["120363316264159575@newsletter", "120363316264159575@newsletter", "120363316264159575@newsletter", "120363316264159575@newsletter"]
+global.canalNombreH = ["🎀 𝒞𝐻𝒜𝒩𝒩𝐸𝐿 - 𝑀𝐼𝒵𝒰𝒦𝐼 𝒜𝐼 🎀"]
 global.channelRD = await getRandomChannel()
 
 //Reacciones De Comandos.!
@@ -69,13 +69,13 @@ global.waittt =  'ꨄ︎ 🅱︎🅰︎🅹︎🅰︎🅽︎🅳︎🅾︎ 🆃�
 global.waitttt = 'ꨄ︎ 🅱︎🅰︎🅹︎🅰︎🅽︎🅳︎🅾︎ 🆃︎🆄︎ 🅲︎🅾︎🅽︎🆃︎🅴︎🅽︎🅸︎🅳︎🅾︎\n🄴🅂🄿🄴🅁🄰 🅄🄽 🄼🄾🄼🄴🄽🅃🄾';
 
 //Enlaces
-var grupo = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
-var canal = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'  
-var canal2 = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
-var git = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w' 
-var youtube = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w' 
-var github = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w' 
-let correo = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w'
+var grupo = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u'
+var canal = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u'  
+var canal2 = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u'
+var git = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u' 
+var youtube = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u' 
+var github = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u' 
+let correo = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u'
 
 global.redes = [canal, canal2, git, youtube, github, correo].getRandom()
 
@@ -108,12 +108,12 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
 
 global.icono = [ 
-'https://qu.ax/rENQv.jpg',
-'https://qu.ax/frnSo.jpg',
-'https://qu.ax/RkaOX.jpg',
-'https://qu.ax/SeuNd.jpg',
-'https://qu.ax/aAEWr.jpg',
-'https://qu.ax/zaxCs.jpg',
+'https://qu.ax/xzBMl.jpg',
+'https://qu.ax/xzBMl.jpg',
+'https://qu.ax/xzBMl.jpg',
+'https://qu.ax/xzBMl.jpg',
+'https://qu.ax/xzBMl.jpg',
+'https://qu.ax/xzBMl.jpg',
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: channelRD.id, serverMessageId: 100, newsletterName: channelRD.name, }, externalAdReply: { showAdAttribution: true, title: textbot, body: 'sumi-Bot_MD', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
