@@ -4,7 +4,7 @@ import qs from 'qs';
 
 let handler = async (m, { conn, text, usedPrefix, command }) => {
   if (!text) {
-    return; // Eliminamos el mensaje de error si no hay texto
+    return m.reply(`*[🎧]* *»* *𝐏𝐨𝐫 𝐟𝐚𝐯𝐨𝐫, 𝐢𝐧𝐭𝐞𝐧𝐭𝐚 𝐧𝐮𝐞𝐯𝐚𝐦𝐞𝐧𝐭𝐞 𝐢𝐧𝐜𝐥𝐮𝐲𝐞𝐧𝐝𝐨 𝐞𝐥 𝐧𝐨𝐦𝐛𝐫𝐞 𝐝𝐞 𝐥𝐚 𝐜𝐚𝐧𝐜𝐢ó𝐧 𝐨 𝐯𝐢𝐝𝐞𝐨 𝐪𝐮𝐞 𝐝𝐞𝐬𝐞𝐚𝐬 𝐛𝐮𝐬𝐜𝐚𝐫.*`);
   }
 
   const appleMusic = {
@@ -124,19 +124,19 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 
   const searchResults = await appleMusic.search(text);
   if (!searchResults.length) {
-    return; // Eliminamos el mensaje si no hay resultados
+    return m.reply("No se encontraron resultados para tu búsqueda.");
   }
 
   const firstResult = searchResults[0];
   const songDetails = await appledown.getData(firstResult.link);
 
   if (!songDetails || !songDetails.name || !songDetails.artist || !songDetails.duration) {
-    return; // Eliminamos el mensaje si no se encuentra información
+    return m.reply("No se pudo obtener la información completa de la canción.");
   }
 
   const musicData = await appledown.download(firstResult.link);
   if (!musicData.success) {
-    return; // Eliminamos el mensaje si no se pudo descargar la música
+    return m.reply(`Error: ${musicData.message}`);
   }
 
   const { name, albumname, artist, url, thumb, duration, download } = musicData;
