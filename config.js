@@ -11,70 +11,70 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-['34610246115', 'CREADOR', true],
-['5216634459796', '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻owner', true],
-['5216634459796'],
-['5216634459796'],
-['50492280729'],
-['34610246115']
+['51939249284', 'C R E A D O R', true],
+['51939249284', '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻V E N T A S', true],
+['51939249284'],
+['51939249284'],
+['51939249284'],
+['51939249284']
 ]
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
 global.mods = []
 
-global.suittag = ['34610246115']
+global.suittag = ['51939249284']
 global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packsticker = '🌸SUMI-BOT🌸'
-global.packname = '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻🌸Sumi-Bot_MD🌸'
-global.author = '👑𝕷͢𝖊𝖔፝֟፝֟፝֟፝֟፝֟፝֟𝖓𝖊𝖑👑ϐγ:𝕯͢𝖆𝖗𝖎፝֟፝֟፝֟፝֟፝֟፝֟𝖊𝖑𝖆' 
-global.wm = '🌸Sumi sakurazawa🌸';
-global.titulowm = '⍴᥆ᥕᥱ𝒓ᥱძ ᑲᥡ 𝕷͢𝖊𝖔፝֟፝֟፝֟፝֟፝֟፝֟𝖓𝖊𝖑 𝗍ᥱᥲ𝒎☀︎';
-global.titulowm2 = '🌸Sumi sakurazawa🌸'
-global.igfg = '🌸Sumi sakurazawa🌸'
-global.botname = '🌸Sumi sakurazawa🌸'
-global.dev = '> © ⍴᥆ᥕᥱ𝒓ᥱძ ᑲᥡ 𝕷͢𝖊𝖔፝֟፝֟፝֟፝֟፝֟፝֟𝖓𝖊𝖑 𝗍ᥱᥲ𝒎☀︎'
-global.textbot = '🌸Sumi sakurazawa🌸 : > © ⍴᥆ᥕᥱ𝒓ᥱძ ᑲᥡ 𝕷͢𝖊𝖔፝֟፝֟፝֟፝֟፝֟፝֟𝖓𝖊𝖑 𝗍ᥱᥲ𝒎☀︎'
-global.gt = '🌸SUMI SAKURAZAWA🌸';
-global.namechannel = '🌸Sumi sakurazawa🌸'
+global.packsticker = 'ＭＩＺＵＫＩ 💗 ＡＩ'
+global.packname = '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻ＭＩＺＵＫＩ 💗 ＡＩ'
+global.author = 'ＭＩＺＵＫＩ 💗 ＡＩ' 
+global.wm = 'ＭＩＺＵＫＩ 💗 ＡＩ';
+global.titulowm = 'ＭＩＺＵＫＩ 💗 ＡＩ';
+global.titulowm2 = 'ＭＩＺＵＫＩ 💗 ＡＩ'
+global.igfg = 'ＭＩＺＵＫＩ 💗 ＡＩ'
+global.botname = 'ＭＩＺＵＫＩ 💗 ＡＩ'
+global.dev = 'ＭＩＺＵＫＩ 💗 ＡＩ'
+global.textbot = 'ＭＩＺＵＫＩ 💗 ＡＩ'
+global.gt = 'ＭＩＺＵＫＩ 💗 ＡＩ';
+global.namechannel = 'ＭＩＺＵＫＩ 💗 ＡＩ'
 global.vs = 'V2'
 global.vsJB = '5.0'
 
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
-global.imagen1 = fs.readFileSync('./Menu2.jpg');
-global.imagen2 = fs.readFileSync('./src/anime.jpg');
-global.imagen3 = fs.readFileSync('./Menu3.jpg');
-global.imagen4 = fs.readFileSync('./Menu.jpg');
-global.imagen5 = fs.readFileSync('./src/+18.jpg');
-global.imagen6 = fs.readFileSync('./Menu3.jpg');
-global.imagen7 = fs.readFileSync('./Menu5.jpg');
-global.imagen8 = fs.readFileSync('./Menu4.jpg')
-global.imagen9 = fs.readFileSync('./src/menu_en.png')
-global.imagen10 = fs.readFileSync('./src/nuevobot.jpg')
-global.que = fs.readFileSync('./src/ke/que1.jpg')
-global.que2 = fs.readFileSync('./src/ke/que2.jpg')
-global.que3 = fs.readFileSync('./src/ke/que3.jpg')
-global.que4 = fs.readFileSync('./src/ke/que4.jpg')
-global.que5 = fs.readFileSync('./src/ke/que5.jpg')
-global.que6 = fs.readFileSync('./src/ke/que6.jpg')
-global.amor = fs.readFileSync('./src/amor/amor1.webp')
-global.amor2 = fs.readFileSync('./src/amor/amor2.webp')
-global.amor3 = fs.readFileSync('./src/amor/amor3.webp')
-global.amor4 = fs.readFileSync('./src/amor/amor4.webp')
-global.amor5 = fs.readFileSync('./src/amor/amor5.webp')
-global.miniurl = fs.readFileSync('./src/grupo.jpg');
-global.logo2 = fs.readFileSync('./src/logo2.jpg')
-global.logo3 = fs.readFileSync('./src/logo3.jpg')
-global.catalogo = fs.readFileSync('./src/logo6.png')
-global.logo4 = fs.readFileSync('./src/logo4.jpg')
-global.logo5 = fs.readFileSync('./src/logo5.jpg')
-global.logo7 = fs.readFileSync('./src/Logo7.png')
-global.logo8 = fs.readFileSync('./src/Logo8.jpg')
-global.rule = fs.readFileSync('./src/rule.jpg')
-global.welcome = fs.readFileSync('./media/Welcome.jpg')
-global.adios = fs.readFileSync('./media/Bye.jpg')
+global.imagen1 = fs.readFileSync('./MizukiLogo.jpg');
+global.imagen2 = fs.readFileSync('./MizukiLogo.jpg');
+global.imagen3 = fs.readFileSync('./MizukiLogo.jpg');
+global.imagen4 = fs.readFileSync('./MizukiLogo.jpg');
+global.imagen5 = fs.readFileSync('./MizukiLogo.jpg');
+global.imagen6 = fs.readFileSync('./MizukiLogo.jpg');
+global.imagen7 = fs.readFileSync('./MizukiLogo.jpg');
+global.imagen8 = fs.readFileSync('./MizukiLogo.jpg')
+global.imagen9 = fs.readFileSync('./MizukiLogo.jpg')
+global.imagen10 = fs.readFileSync('./MizukiLogo.jpg')
+global.que = fs.readFileSync('./MizukiLogo.jpg')
+global.que2 = fs.readFileSync('./MizukiLogo.jpg')
+global.que3 = fs.readFileSync('./MizukiLogo.jpg')
+global.que4 = fs.readFileSync('./MizukiLogo.jpg')
+global.que5 = fs.readFileSync('./MizukiLogo.jpg')
+global.que6 = fs.readFileSync('./MizukiLogo.jpg')
+global.amor = fs.readFileSync('./MizukiLogo.webp')
+global.amor2 = fs.readFileSync('./MizukiLogo.webp')
+global.amor3 = fs.readFileSync('./MizukiLogo.webp')
+global.amor4 = fs.readFileSync('./MizukiLogo.webp')
+global.amor5 = fs.readFileSync('./MizukiLogo.webp')
+global.miniurl = fs.readFileSync('./MizukiLogo.jpg');
+global.logo2 = fs.readFileSync('./MizukiLogo.jpg')
+global.logo3 = fs.readFileSync('./MizukiLogo.jpg')
+global.catalogo = fs.readFileSync('./MizukiLogo.jpg')
+global.logo4 = fs.readFileSync('./MizukiLogo4.jpg')
+global.logo5 = fs.readFileSync('./MizukiLogo.jpg')
+global.logo7 = fs.readFileSync('./MizukiLogo.jpg')
+global.logo8 = fs.readFileSync('./MizukiLogo.jpg')
+global.rule = fs.readFileSync('./MizukiLogo.jpg')
+global.welcome = fs.readFileSync('./MizukiLogo.jpg')
+global.adios = fs.readFileSync('./MizukiLogo.jpg')
 
 global.stickeramor = [amor, amor2, amor3, amor4, amor5]
 global.sickerque = [que, que2, que3, que4, que5, que6]
@@ -83,41 +83,41 @@ global.photoSity = [imagen8, imagen1, imagen4, imagen6]
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.8'
 global.languaje = 'Español'
-global.nameqr = '🌸Sumi sakurazawa🌸'
+global.nameqr = 'ＭＩＺＵＫＩ 💗 ＡＩ'
 global.sessions = 'seccion-activas'
 global.jadi = 'jadibots'
 
 global.ch = {
-ch1: '120363324350463849@newsletter',
-ch2: '120363324350463849@newsletter',
-ch3: '120363324350463849@newsletter',
-ch4: '120363324350463849@newsletter',
-ch5: '120363324350463849@newsletter',
+ch1: '120363316264159575@newsletter',
+ch2: '120363316264159575@newsletter',
+ch3: '120363316264159575@newsletter',
+ch4: '120363316264159575@newsletter',
+ch5: '120363316264159575@newsletter',
 }
 
 //• ↳ ◜𝑭𝑨𝑲𝑬 𝑬𝑺𝑻𝑰𝑳𝑶◞ • 🪩
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻🌸SUMI SAKURAZAWA🌸', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻ＭＩＺＵＫＩ 💗 ＡＩ', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fakegif2 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'HuTao', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '♡٨ﮩ٨ﮩﮩ٨ﮩﮩ٨ﮩ ᗷIEᑎᐯEᑎIᗪO ﮩ٨ﮩﮩ٨ﮩﮩ٨ﮩ٨♡', jpegThumbnail: logo5 }}};
+global.fakegif2 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'ＭＩＺＵＫＩ 💗 ＡＩ', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: 'ＭＩＺＵＫＩ 💗 ＡＩ', jpegThumbnail: logo5 }}};
 
-global.fakegif3 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'HuTao-MD', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𖠵⃕⁖𝐓𝐨𝐧𝐭𝐨 (￣へ ￣ ) ', jpegThumbnail: logo3 }}};
+global.fakegif3 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'ＭＩＺＵＫＩ 💗 ＡＩ', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: 'ＭＩＺＵＫＩ 💗 ＡＩ', jpegThumbnail: logo3 }}};
 
-global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'HuTao', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: 'ཫ꙳✱( รՇเςкєгร )✱꙳ཀ', jpegThumbnail: logo5 }}};
+global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'ＭＩＺＵＫＩ 💗 ＡＩ', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: 'ＭＩＺＵＫＩ 💗 ＡＩ', jpegThumbnail: logo5 }}};
 
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻SUMI-BOT', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻ＭＩＺＵＫＩ 💗 ＡＩ', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`͟͞ 👑 𝕷͢𝖊𝖔፝֟፝֟፝֟፝֟፝֟፝֟𝖓𝖊𝖑 👑͟͞`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `🌸Sumi sakurazawa🌸\n 👑 𝕷͢𝖊𝖔፝֟፝֟፝֟፝֟፝֟፝֟𝖓𝖊𝖑 👑͟`, 'jpegThumbnail': logo4 }}}
+global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`ＭＩＺＵＫＩ 💗 ＡＩ`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `ＭＩＺＵＫＩ 💗 ＡＩ`, 'jpegThumbnail': logo4 }}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp4 = 'https://chat.whatsapp.com/GSZBZ6Ggjp02mZmZNTGQu6' //🌸Grupo Oficial De sumi🌸
-global.gp1 = 'https://chat.whatsapp.com/GSZBZ6Ggjp02mZmZNTGQu6' //Grupo 
-global.gp2 = 'GE1wUxAsLleAxfCVvtsp1x' //Grupo
-global.comunidad1 = 'https://chat.whatsapp.com/GSZBZ6Ggjp02mZmZNTGQu6' //grupo de sumi sakurazawa 
-global.channel = 'https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w' //Canal Oficial
-global.yt = 'https://youtube.com/@leonel5057' //Canal De Youtube
-global.md = 'https://github.com/leoneloficial/-SUMI-SAKURAZAWA-/edit/main/config.js' //Github Oficial
-global.correo = 'omanaleonel04@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820';
+global.gp4 = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u' //Grupo Oficial
+global.gp1 = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u' //Grupo 
+global.gp2 = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u' //Grupo
+global.comunidad1 = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u' //grupo
+global.channel = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u' //Canal Oficial
+global.yt = 'https://youtube.com/' //Canal De Youtube
+global.md = 'https://github.com/s' //Github Oficial
+global.correo = 'cuentaoficialspectrum@gmail.com'
+global.cn ='https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u';
 
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
 global.saludo = '🌸' + hour;
@@ -132,8 +132,8 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n🌸sumi sakurazawa🌸`;
-global.nomorown = '34610246115';
+global.wm2 = `${dia} ${fecha}\nＭＩＺＵＫＩ 💗 ＡＩ`;
+global.nomorown = '51939249284';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
@@ -150,7 +150,7 @@ global.comienzo = '• • ◕◕════';
 global.fin = '════◕◕ • •';
 global.botdate = `${moment.tz('America/Mexico_City').format('DD/MM/YY')}`;
 global.bottime = `${moment.tz('America/Mexico_City').format('HH:mm:ss')}`;
-global.fgif = {key: {participant: '0@s.whatsapp.net'}, message: {'videoMessage': {'title': wm, 'h': `Hmm`, 'seconds': '999999999', 'gifPlayback': 'true', 'caption': bottime, 'jpegThumbnail': fs.readFileSync('./Menu.jpg')}}};
+global.fgif = {key: {participant: '0@s.whatsapp.net'}, message: {'videoMessage': {'title': wm, 'h': `Hmm`, 'seconds': '999999999', 'gifPlayback': 'true', 'caption': bottime, 'jpegThumbnail': fs.readFileSync('./MizukiLogo.jpg')}}};
 global.multiplier = 99;
 global.flaaa = [
   'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
