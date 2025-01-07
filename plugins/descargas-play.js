@@ -4,7 +4,7 @@ import qs from 'qs';
 
 let handler = async (m, { conn, text, usedPrefix, command }) => {
   if (!text) {
-    return m.reply(`Ejemplo de uso: ${usedPrefix + command} _Rojo_ - _27_ \n_By 🌸sumi sakurazawa🌸_`);
+    return m.reply(`*[🎧]* *»* *𝐏𝐨𝐫 𝐟𝐚𝐯𝐨𝐫, 𝐢𝐧𝐭𝐞𝐧𝐭𝐚 𝐧𝐮𝐞𝐯𝐚𝐦𝐞𝐧𝐭𝐞 𝐢𝐧𝐜𝐥𝐮𝐲𝐞𝐧𝐝𝐨 𝐞𝐥 𝐧𝐨𝐦𝐛𝐫𝐞 𝐝𝐞 𝐥𝐚 𝐜𝐚𝐧𝐜𝐢ó𝐧 𝐨 𝐯𝐢𝐝𝐞𝐨 𝐪𝐮𝐞 𝐝𝐞𝐬𝐞𝐚𝐬 𝐛𝐮𝐬𝐜𝐚𝐫.*`);
   }
 
   const appleMusic = {
@@ -134,7 +134,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     return m.reply("No se pudo obtener la información completa de la canción.");
   }
 
-  const songInfoMessage = `🎶 Nombre: ${songDetails.name}\n🎤 Artista: ${songDetails.artist}\n⏱️ Duración: ${songDetails.duration}`;
+  const songInfoMessage = ``;
   await conn.sendMessage(m.chat, { text: songInfoMessage }, { quoted: m });
 
   const musicData = await appledown.download(firstResult.link);
